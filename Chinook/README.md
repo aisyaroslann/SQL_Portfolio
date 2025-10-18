@@ -29,12 +29,6 @@ The focus is on understanding **customer behavior, product performance, revenue 
 - Extracting business insights from structured data  
 - Performing customer segmentation, sales trend analysis, and revenue ranking  
 
----
-
-## 📝 Query Organization
-- **Basic Queries** – foundational SQL: joins, filtering, counts, sorting  
-- **Intermediate Queries** – analytical: aggregations, ranking, trends  
-- **Advanced Queries** – business-driven metrics: CLV, retention, cross-sell, top revenue products  
 
 ---
 
