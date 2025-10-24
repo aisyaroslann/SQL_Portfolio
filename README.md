@@ -20,7 +20,7 @@ The goal is to highlight practical SQL skills used in **data analytics, reportin
 
 ## 🧩 Project
 
-| Projects | Description | Focus Are |
+| Projects | Description | Focus Area |
 |-----------|--------------|----------------|
 | 🎵 **Chinook Music Store** | Digital music store dataset (artists, albums, invoices, customers) | Sales performance analysis, customer segmentation, revenue trends |
 
